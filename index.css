@@ -1,0 +1,46 @@
+/*.title1{
+    background-color: aqua !important;
+    color:blue;  
+    text-align: center;
+    display: block;display: inline;
+}
+  #title2{
+    background-color: bisque;
+    color:darkblue
+  }
+  h1{
+    background-color: navy;
+    color:white
+  }
+  *{
+    background-color: blueviolet;
+    color:white; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+  }
+  #para{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+   
+  a:visited{
+      color: aqua;
+  }
+  a:active{
+      color: red;
+      font-size: xx-large;
+  }
+  a:link{
+     color: black;
+  }
+  a:hover{
+    color: hotpink;
+  }
+  button:hover{
+    box-shadow: 1px 1px 1px 1p;
+    cursor: pointer;
+  }
+  button:active{
+    background-color: aquamarine;
+  }*/
+
+  
+  
